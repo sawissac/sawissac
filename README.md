@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sawissac
-- 👀 I’m interested in UI/UX, web, js, ts, python, nodejs
+- 👀 I’m interested in UI/UX, web, js, ts, python, nodejs, cpp, ts
 - 🌱 I’m currently learning php, laravel
 
 <!---
