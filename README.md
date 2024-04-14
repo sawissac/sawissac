@@ -8,7 +8,7 @@
 
 **Experience:**
 
-* **Frontend Web Developer | Ace Plus Solutions Company Limited** (April 2023 - Aprial 2024) - Yangon, Myanmar (Hybrid/Remote)
+* **Frontend Web Developer | Ace Plus Solutions Company Limited** (April 2023 - April 2024) - Yangon, Myanmar (Hybrid/Remote)
     * Developed and maintained web applications using Next.js, Tailwind CSS (styling), and TypeScript (type safety) for an insurance client in Singapore.
     * Utilized Node.js and Sequelize for backend tasks and database operations.
     * Conducted thorough testing with Jest (logic testing) to ensure quality before QA handoff.
