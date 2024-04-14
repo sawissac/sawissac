@@ -1,4 +1,4 @@
-##   Full-Stack Web Developer (Remote 🇹🇭)
+##   Full-Stack Web Developer (Remote 🇹🇭 🇲🇲)
 
 **Looking for exciting opportunities to leverage my full-stack skills and create innovative web solutions!**
 
