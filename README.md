@@ -1,11 +1,5 @@
 ##   Full-Stack Web Developer (Remote 🇹🇭 🇲🇲)
 
-## I really missed these day when I'm at work 😁
-
-![image](https://github.com/sawissac/sawissac/assets/102011525/66d3c8a8-b0c2-4e2e-95e2-6212648ad428)
-
-**Looking for exciting opportunities to leverage my full-stack skills and create innovative web solutions!**
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sawissac&label=Profile%20views&color=0e75b6&style=flat" alt="sawissac" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sawissac" alt="sawissac" /></a> </p>
