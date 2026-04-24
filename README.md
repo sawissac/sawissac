@@ -12,11 +12,11 @@
 <h3 align="left">🌐 Connect with Me</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/sawissac" target="_blank">
+  <a href="https://www.linkedin.com/in/saw-issac-4b106b25b" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://fb.com/sawissac" target="_blank">
+  <a href="https://web.facebook.com/saw.issac.waux" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" />
   </a>
 </p>
