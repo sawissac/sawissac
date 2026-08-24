@@ -1,64 +1,140 @@
-<h1 align="center">Hi 👋, I'm Saw Issac</h1>
-<h3 align="center">Full-Stack Web Developer | Building Scalable & Modern Applications</h3>
+# 👋 Hi, I'm Saw Issac
+
+### Full-Stack Web Developer · Next.js · TypeScript · Node.js
 
 <p align="center">
-  🌍 Remote Developer based in 🇹🇭 Thailand / 🇲🇲 Myanmar <br/>
-  💻 Passionate about clean code, performance, and user-focused solutions <br/>
-  🚀 Always learning, building, and improving
+  <a href="https://github.com/sawissac">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/saw-issac-4b106b25b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://web.facebook.com/saw.issac.waux">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Building scalable, maintainable, and user-focused web applications.</strong>
 </p>
 
 ---
 
-<h3 align="left">🌐 Connect with Me</h3>
+## 🚀 About Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/saw-issac-4b106b25b" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://web.facebook.com/saw.issac.waux" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" />
-  </a>
-</p>
+I'm a **Full-Stack Web Developer** with professional experience building modern web applications, with a strong focus on frontend development.
+
+* 💻 Experienced with **Next.js, React, TypeScript, Tailwind CSS & Node.js**
+* 🏗️ Building scalable and maintainable applications
+* 🎯 Focused on performance, clean architecture, and great UX
+* 🧪 Comfortable with testing, debugging, and code quality
+* 🤝 Experienced working with remote and international teams
+* 🌱 Continuously learning and improving my engineering skills
+* 🌍 Available for remote opportunities
+
+> **I enjoy solving real problems with simple, reliable, and maintainable software.**
 
 ---
 
-<h3 align="left">🧰 Tech Stack</h3>
+## 🛠️ Tech Stack
 
-<p align="left">
-  <strong>Frontend</strong><br/>
+### Frontend
+
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,reactnative" />
 </p>
 
-<p align="left">
-  <strong>Backend</strong><br/>
+### Backend
+
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,php,java,python" />
 </p>
 
-<p align="left">
-  <strong>Database</strong><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
-<p align="left">
-  <strong>Tools & DevOps</strong><br/>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,postman" />
+### Styling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,bulma" />
 </p>
 
-<p align="left">
-  <strong>Styling</strong><br/>
-  <img src="https://skillicons.dev/icons?i=sass,tailwind,bulma" />
+### Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,nginx,postman,jest" />
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+## 💼 Professional Experience
+
+### Frontend Web Developer
+
+**Ace Plus Solutions · 2023 – Present**
+
+Working on an offshore **Singapore-based insurance project**, contributing primarily to frontend development while also supporting backend development and testing.
+
+**Responsibilities & Contributions**
+
+* ⚛️ Build and maintain frontend applications using **Next.js, React & TypeScript**
+* 🎨 Develop responsive interfaces with **Tailwind CSS**
+* 🔌 Develop and maintain backend functionality with **Node.js**
+* 🗄️ Work with databases using **Sequelize**
+* 🧪 Write and maintain tests using **Jest**
+* 🔍 Test features and resolve issues before QA handoff
+* 🤝 Collaborate with developers, QA, and project stakeholders
+* 📋 Translate requirements into practical technical solutions
+* 🚀 Focus on performance, maintainability, and user experience
+
+---
+
+## 📌 What I Can Do
+
+| Area               | Skills                                        |
+| ------------------ | --------------------------------------------- |
+| 🎨 Frontend        | React, Next.js, TypeScript, JavaScript        |
+| 📱 Responsive UI   | Tailwind CSS, Sass, Modern CSS                |
+| ⚙️ Backend         | Node.js, REST APIs                            |
+| 🗄️ Database       | PostgreSQL, MySQL, MongoDB, Redis             |
+| 🧪 Testing         | Jest, Unit Testing                            |
+| 🐳 DevOps          | Docker, Nginx, Git                            |
+| 🔧 API Development | REST API, Postman                             |
+| 📐 Architecture    | Component-based & scalable application design |
+
+---
+
+## 🎯 Currently
+
+```text
+Building       → Modern Full-Stack Applications
+Learning       → Advanced System Design & Backend Architecture
+Improving      → Performance, Testing & Code Quality
+Exploring      → Cloud, DevOps & Scalable Systems
+Goal           → Become a stronger Full-Stack Engineer
+```
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in **remote opportunities, interesting projects, collaboration, and building products that solve real problems.**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sawissac&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sawissac&theme=tokyonight" alt="streak" />
+  <a href="https://www.linkedin.com/in/saw-issac-4b106b25b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
-<h3 align="center">✨ "Code. Build. Improve. Repeat."</h3>
+<p align="center">
+  <i>“Code. Build. Improve. Repeat.”</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
